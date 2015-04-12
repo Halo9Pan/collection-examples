@@ -1,0 +1,6 @@
+[submodule "js/mvc"]
+	path = js/mvc
+	url = https://github.com/tastejs/todomvc.git
+[submodule "js/angular"]
+	path = js/angular
+	url = https://github.com/angular/angular-phonecat.git
