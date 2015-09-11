@@ -1,6 +1,9 @@
-[submodule "js/mvc"]
-	path = js/mvc
+[submodule "fe/mvc"]
+	path = fe/mvc
 	url = https://github.com/tastejs/todomvc.git
-[submodule "js/angular"]
-	path = js/angular
+[submodule "fe/angular"]
+	path = fe/angular
 	url = https://github.com/angular/angular-phonecat.git
+[submodule "fe\\template"]
+	path = fe\\template
+	url = https://github.com/h5bp/html5-boilerplate.git
