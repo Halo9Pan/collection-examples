@@ -4,6 +4,9 @@
 [submodule "fe/angular"]
 	path = fe/angular
 	url = https://github.com/angular/angular-phonecat.git
-[submodule "fe\\template"]
-	path = fe\\template
+[submodule "fe/template"]
+	path = fe/template
 	url = https://github.com/h5bp/html5-boilerplate.git
+[submodule "python/machinelearning"]
+	path = python/machinelearning
+	url = git@github.com:pbharrin/machinelearninginaction.git
