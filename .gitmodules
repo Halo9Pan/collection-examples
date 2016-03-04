@@ -10,3 +10,9 @@
 [submodule "python/machinelearning"]
 	path = python/machinelearning
 	url = git@github.com:pbharrin/machinelearninginaction.git
+[submodule "fe/requirejs"]
+	path = fe/requirejs
+	url = https://github.com/requirejs/example-multipage.git
+[submodule "fe/seajs"]
+	path = fe/seajs
+	url = https://github.com/seajs/examples.git
