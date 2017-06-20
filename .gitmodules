@@ -1,18 +1,21 @@
-[submodule "fe/mvc"]
+[submodule "fe_mvc"]
 	path = fe/mvc
 	url = https://github.com/tastejs/todomvc.git
-[submodule "fe/angular"]
+[submodule "fe_angular"]
 	path = fe/angular
 	url = https://github.com/angular/angular-phonecat.git
-[submodule "fe/template"]
+[submodule "fe_template"]
 	path = fe/template
 	url = https://github.com/h5bp/html5-boilerplate.git
-[submodule "python/machinelearning"]
-	path = python/machinelearning
-	url = git@github.com:pbharrin/machinelearninginaction.git
-[submodule "fe/requirejs"]
+[submodule "fe_requirejs"]
 	path = fe/requirejs
 	url = https://github.com/requirejs/example-multipage.git
-[submodule "fe/seajs"]
+[submodule "fe_seajs"]
 	path = fe/seajs
 	url = https://github.com/seajs/examples.git
+[submodule "ml_action"]
+	path = ml/action
+	url = git@github.com:pbharrin/machinelearninginaction.git
+[submodule "dl_tensorflow"]
+	path = dl/tensorflow
+	url = git@github.com:aymericdamien/TensorFlow-Examples.git
